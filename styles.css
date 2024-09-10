@@ -1,0 +1,26 @@
+/* Custom styles */
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.hero-section {
+    background-image: url('your-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.card {
+    border: none;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
